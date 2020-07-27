@@ -32,4 +32,4 @@ Train Booking and Seating Arrangement
 ![Alt text](client/images/backend_response.png)
 
 #### Database design
-![Alt text](Database design/Booking.png)
+![Alt text](client/images/Booking.png)
