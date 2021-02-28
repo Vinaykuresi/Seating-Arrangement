@@ -21,7 +21,7 @@ Train Booking and Seating Arrangement
     Start Server : nodemon server.js
 ```
 
-### [Live Site(Go to live site and shop)](https://master.d1es9gzi0rwpvk.amplifyapp.com/)
+### [Live Site(Go to live site and book ticket)](https://master.d1es9gzi0rwpvk.amplifyapp.com/)
 
 #### Optimise response
 ##### the below reponse would cause load in frontend
